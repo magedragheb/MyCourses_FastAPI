@@ -8,6 +8,7 @@ fastapi = "*"
 pymongo = "*"
 uvicorn = "*"
 starlette = "*"
+pydantic = "*"
 
 [dev-packages]
 
